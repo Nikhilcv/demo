@@ -1,4 +1,4 @@
 second line
 win sys
-thrd
-frth
+third
+fourth
