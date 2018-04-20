@@ -1,10 +1,4 @@
 second line
 win sys
-<<<<<<< HEAD
-thrd
-frth
-=======
 third
 fourth
->>>>>>> f0213945ca251d80817176a303c949ab543719e4
-
